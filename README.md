@@ -1,4 +1,4 @@
-# url-shortener
+# URL-shortener
 
 How it will work,
 
@@ -16,7 +16,7 @@ How it will work,
 - [x] Add stores the above details in the mongodb
 - [x] When I search http://localhost:5000/urlname then it will redirect to the specified address
 
-### your task is to -
+### Your task is to -
 
 Updation to be done:
 
